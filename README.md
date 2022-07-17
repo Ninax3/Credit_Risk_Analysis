@@ -1,4 +1,4 @@
-# Credit Risk Analysis - A comparison of machine learning techiniques
+# Credit Risk Analysis - A comparison of machine learning techniques
 
 ## Overview 
 The Lending Club, a lending company, has provided a credit card risk dataset to build training & testing datasets, to analyze and recommend a machine learning model to identify high-risk customers for credit risk. The following machine learning models/techniques are applied and evaluated:
