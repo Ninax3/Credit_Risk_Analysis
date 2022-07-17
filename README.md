@@ -28,15 +28,18 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 ![Credit_Risk_Analysis "ClusterC_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_ClassR.png)
 
 #### SMOTEEN
-
-
-
+![Credit_Risk_Analysis "SMOTEEN_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_bas.png)
+![Credit_Risk_Analysis "SMOTEEN_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_cm.png)
+![Credit_Risk_Analysis "SMOTEEN_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_ClassR.png)
 
 #### BalancedRandomForestClassifier
-
-
-
+![Credit_Risk_Analysis "BRFC_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_bas.png)
+![Credit_Risk_Analysis "BRFC_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_cm.png)
+![Credit_Risk_Analysis "BRFC_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_ClassR.png)
 
 #### EasyEnsembleClassifier
+![Credit_Risk_Analysis "SMOTEEN_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_bas.png)
+![Credit_Risk_Analysis "SMOTEEN_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_cm.png)
+![Credit_Risk_Analysis "SMOTEEN_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_ClassR.png)
 
 ## Summary 
