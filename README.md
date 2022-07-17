@@ -23,9 +23,9 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 ![Credit_Risk_Analysis "SMOTE_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTE_ClassR.png)
 
 #### ClusterCentroids
-![Credit_Risk_Analysis "RandomOverSamp_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSamp_ClassR.png)
-
-
+![Credit_Risk_Analysis "ClusterC_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_bas.png)
+![Credit_Risk_Analysis "ClusterC_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_cm.png)
+![Credit_Risk_Analysis "ClusterC_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_ClassR.png)
 
 #### SMOTEEN
 
