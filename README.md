@@ -27,7 +27,7 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 
 
 #### SMOTEEN
-
+![Credit_Risk_Analysis "SMOTEEN_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_bas.png)
 ![Credit_Risk_Analysis "SMOTEEN_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_cm.png)
 ![Credit_Risk_Analysis "SMOTEEN_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_ClassR.png)
 
@@ -36,7 +36,9 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 ![Credit_Risk_Analysis "BRFC_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_cm.png)
 ![Credit_Risk_Analysis "BRFC_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_ClassR.png)
 
-
 #### EasyEnsembleClassifier
+![Credit_Risk_Analysis "EasyEnsembleABC_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/EasyEnsembleABC_bas.png)
+![Credit_Risk_Analysis "EasyEnsembleABC_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/EasyEnsembleABC_cm.png)
+![Credit_Risk_Analysis "EasyEnsembleABC_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/EasyEnsembleABC_ClassR.png)
 
 ## Summary 
