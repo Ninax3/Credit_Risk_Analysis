@@ -11,7 +11,10 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 6. **EasyEnsembleClassifier** *(ensemble; undersample with balance boosted learners)*
 
 ## Results
-- 
+
+#### RandomOverSampler
+![Credit_Risk_Analysis "RandomOverSample_bas"](https://github.com/Ninax3/link to png file.png)
+
 
 
 ## Summary 
