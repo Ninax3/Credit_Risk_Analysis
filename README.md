@@ -34,7 +34,7 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 
 #### BalancedRandomForestClassifier
 ![Credit_Risk_Analysis "BRFC_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_bas.png)
-![Credit_Risk_Analysis "BRFC_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_cm.png)
+![Credit_Risk_Analysis "BRFC"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC.png)
 ![Credit_Risk_Analysis "BRFC_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/BRFC_ClassR.png)
 
 #### EasyEnsembleClassifier
