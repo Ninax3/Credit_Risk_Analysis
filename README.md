@@ -14,17 +14,18 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 
 #### RandomOverSampler
 ![Credit_Risk_Analysis "RandomOverSampling_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSampling_bas.png)
-
+![Credit_Risk_Analysis "RandomOverSampling_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSampling_cm.png)
 ![Credit_Risk_Analysis "RandomOverSamp_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSamp_ClassR.png)
 
 #### SMOTE
 ![Credit_Risk_Analysis "SMOTE_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTE_bas.png)
-
+![Credit_Risk_Analysis "SMOTE_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTE_cm.png)
 ![Credit_Risk_Analysis "SMOTE_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTE_ClassR.png)
 
 #### ClusterCentroids
 ![Credit_Risk_Analysis "ClusterC_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_bas.png)
-
+![Credit_Risk_Analysis "ClusterC_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_cm.png)
+![Credit_Risk_Analysis "ClusterC_ClsR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/ClusterC_ClsR.png)
 
 #### SMOTEEN
 ![Credit_Risk_Analysis "SMOTEEN_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/SMOTEEN_bas.png)
