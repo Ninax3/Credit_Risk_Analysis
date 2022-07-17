@@ -6,9 +6,13 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 1. **RandomOverSampler** algorithm *(resampling; oversample)*
 2. **SMOTE** algorithm *(resampling; oversample)*
 3. **ClusterCentroids** algorithm *(resampling; undersample)*
-4. **SMOTEEN** algorithm *(resampling; combination of oversample and undersample)*
+4. **SMOTEEN** algorithm *(resampling; combination of oversample and undersample)* <br>
+See code here for the Resampling models, 
+
 5. **BalancedRandomForestClassifier** *(ensemble; undersample bootstrap sample)*
-6. **EasyEnsembleClassifier** *(ensemble; undersample with balance boosted learners)*
+6. **EasyEnsembleClassifier** *(ensemble; undersample with balance boosted learners)* <br>
+See code here for the Ensemble models, https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb 
+
 
 ## Results
 
