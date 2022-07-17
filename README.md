@@ -14,7 +14,7 @@ The Lending Club, a lending company, has provided a credit card risk dataset to 
 
 #### RandomOverSampler
 ![Credit_Risk_Analysis "RandomOverSampling_bas"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSampling_bas.png)
-![Credit_Risk_Analysis "RandomOverSampling_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSampling_cm.png)
+![Credit_Risk_Analysis "RandomOverS_cm"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverS_cm.png)
 ![Credit_Risk_Analysis "RandomOverSamp_ClassR"](https://github.com/Ninax3/Credit_Risk_Analysis/blob/main/RandomOverSamp_ClassR.png)
 
 #### SMOTE
